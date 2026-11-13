@@ -41,7 +41,9 @@ Android shows this notice for **every app installed outside Google Play**. It is
 ## Updating
 
 - Menus, prices and new screens appear **automatically** every time you open the app. You do not need to reinstall for that.
-- When a new version of the app itself is released, download the newest `geebi-menu.apk` from this page and install it **over** the old one. Your account and favourites stay on your account; you never need to uninstall.
+- When a new version of the app itself is released, the app shows a banner: tap **Update now**. It downloads the update, checks it, and Android asks you to confirm once. It installs **over** the old one; your account and favourites stay, and you never need to uninstall.
+- The first time, Android may ask you to allow Geebi Menu to install updates.
+- On version 1.0.1, install the newest `geebi-menu.apk` from this page once (over the old one); from then on updates arrive in the app.
 
 ## Verify the download
 
@@ -85,7 +87,9 @@ AC:E6:78:9C:83:8A:24:EB:29:BE:7F:44:14:59:F2:75:3F:68:97:B7:3E:16:5B:EF:6D:6E:F3
 
 ### التحديث
 - المنيو والأسعار والشاشات الجديدة بتظهر **تلقائياً** كل ما تفتح التطبيق، من غير إعادة تثبيت.
-- لو نزلت نسخة جديدة من التطبيق نفسه، حمّل أحدث `geebi-menu.apk` من الصفحة دي وثبّته **فوق** القديم. حسابك ومفضلاتك محفوظين، ومش محتاج تحذف التطبيق.
+- لو نزلت نسخة جديدة من التطبيق نفسه، التطبيق بيعرض تنبيه: اضغط **تحديث الآن**، وهو يحمّل التحديث ويتأكد منه، وأندرويد يطلب منك تأكيد مرة واحدة. بيتثبت **فوق** القديم، وحسابك ومفضلاتك محفوظين، ومش محتاج تحذف التطبيق.
+- أول مرة ممكن أندرويد يطلب السماح لـ Geebi Menu بتثبيت التحديثات.
+- لو عندك نسخة 1.0.1، ثبّت أحدث `geebi-menu.apk` من الصفحة دي مرة واحدة (فوق القديمة)، وبعدها التحديثات هتوصلك جوه التطبيق.
 
 ---
 
